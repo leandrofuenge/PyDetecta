@@ -7,3 +7,4 @@ Este método é treinado para detectar pedestres, que são principalmente humano
 
 a detecção é feita quase em tempo real na máquina. Você verá que o detector funciona melhor se a pessoa não estiver muito próxima da câmera. Se a pessoa estiver próxima, muitas vezes são mostradas várias caixas sobrepostas.
 
+Comando de Instalacao das bibliotecas: conda install opencv numpy matplotlib
